@@ -1,3 +1,11 @@
 hello group:
-this is the group text file update for creating the branch Xiaolan
+this is the group text file update for creating the branch
+
+----Lab3-Group1----
+Muhammad
+Surbhi Nayak
+Yuan Zheng
+Sichao Zhou
+Yifeng Lin
+
 
