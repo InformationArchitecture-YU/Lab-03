@@ -1,6 +1,9 @@
 
-# Lab #3: Develop Code Repository and Push Commits 
+# Group 5 - Lab 3 Exercise
 
-Hello from GROUP 5.
-(Anub, Dengyi, SaiNikhil, Vijaya)
-
+|   Name               |         Email   |
+|----------------------|-----------------|
+|Anub Rai              |arai2@mail.yu.eu |
+|Dengyi Liu            |arai2@mail.yu.eu |
+|Vijayasuriya Suresh   |arai2@mail.yu.eu |
+|Sai Nikhil Achyuta    |arai2@mail.yu.eu |
