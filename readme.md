@@ -1,3 +1,13 @@
+# GROUP 4 - LAB 3 -Exercise
+
+|   Name             | Email                |
+|--------------------|----------------------|
+| Aradhana Panchal   |apacha1@mail.yu.edu   |
+| Nabid Zaman        |nzaman@mail.yu.edu    |
+| Humeyra Ozturk     |hozturk@mail.yu.edu   |
+| Harish Golla       |hgolla1@mail.yu.edu   |
+
+
 
 # Lab #3: Develop Code Repository and Push Commits 
 
