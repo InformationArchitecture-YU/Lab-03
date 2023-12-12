@@ -1,4 +1,12 @@
+Group-3 Lab 3 Exercise
 
+|Name       | Email                          |
+|___________|________________________________|
+|Rekha Rani | rrani1@mail.yu.edu             |
+|Jitendra   | jmulinti@mail.yu.edu             |
+|Priyank    | Tailor.priyank0007@gmail.com   |
+|Volkan     | volkanuzundag@gmail.com        |
+|____________________________________________|
 # Lab #3: Develop Code Repository and Push Commits 
 
 
