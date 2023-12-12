@@ -1,4 +1,4 @@
 hello group:
-This is the text from Rekha Rani
+This is the text from Rekha Rani.
 
-This massage is for group-3 to make changes to hellogroup file on 11/16/2023
+This massage is for group-3 to make changes to hellogroup file on 11/16/2023.
