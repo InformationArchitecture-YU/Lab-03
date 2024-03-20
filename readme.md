@@ -1,3 +1,9 @@
+# Group 3 - Lab 3 Exercise
+
+|      name        |     email    |
+|------------------|--------------|
+|Jiahao Li         |jli8@mail.yu.edu|
+
 
 # Lab #3: Develop Code Repository and Push Commits 
 
