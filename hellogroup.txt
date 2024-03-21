@@ -1,4 +1,6 @@
 hello group:
-This is the text from Brandon
+This is the text from Group 3
+Cloned repository
+checked out and created new branch group-03-branch
 
-This is Brandon change from feature1 on 11/21/2023
+This is Group3 change from feature1 on 03/21/2023

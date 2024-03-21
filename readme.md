@@ -1,3 +1,12 @@
+#Group_03 - Lab 3 Execise
+
+|	Name	        |	Email	|
+|-----------------------|--------------------|
+|Bhavya kuruba Nagaraj  |bkuruban@mail.yu.edu|
+|Guruchandra Kundena    |kundena@mail.yu.edu |
+|Daniel Malinsky        |malinsky@mail.yu.edu|
+|Sreevani Siddareddygari|sreevani@mail.yu.edu|
+
 
 # Lab #3: Develop Code Repository and Push Commits 
 
