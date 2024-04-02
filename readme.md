@@ -1,6 +1,10 @@
 
 # Lab #3: Develop Code Repository and Push Commits 
 
+|	Name	|	Email	|
+|---------------|---------------|
+|Sheng-Han Yueh |syueh@mail.yu.edu|
+
 
 **Points: 10**  
 **Assignment Type: Group submissions**
