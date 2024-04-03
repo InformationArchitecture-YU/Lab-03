@@ -4,7 +4,7 @@
 |	Name	|	Email	|
 |---------------|---------------|
 |Sheng-Han Yueh |syueh@mail.yu.edu|
-|Mudassir Imam	|mimam@mail.yu.edu|
+|Mudassir  Imam	|mimam@mail.yu.edu|
 
 
 **Points: 10**  
