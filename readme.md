@@ -1,9 +1,14 @@
-
+Group 5 (Sec-2)
 # Lab #3: Develop Code Repository and Push Commits 
 
-|	Name	|	Email	|
-|---------------|---------------|
-|Sheng-Han Yueh |syueh@mail.yu.edu|
+|	Name                	 |	Email             |
+|---------------         |--------------------|
+|Nikki Rastogi           |nrastog1@mail.yu.edu|
+|Anupam Semwal           |asemwal@mail.yu.edu |
+|Bhushan                 |bbabar@mail.yu.edu  |
+|Manasa                  |Msiddhar@mail.yu.edu|
+|Prudhvi                 |pdadi@mail.yu.edu   |
+|Thulasiram veeramangalam|tveerama@mail.yu.edu|
 
 
 **Points: 10**  
