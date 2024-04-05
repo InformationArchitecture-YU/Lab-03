@@ -4,6 +4,7 @@
 |	Name	|	Email	|
 |---------------|---------------|
 |Sheng-Han Yueh |syueh@mail.yu.edu|
+|Ankit Kumar Aggarwal|aaggarwa@mail.yu.edu|
 
 
 **Points: 10**  
