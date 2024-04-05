@@ -3,7 +3,7 @@
 
 |	Name	|	Email	|
 |---------------|---------------|
-|Sheng-Han Yueh |syueh@mail.yu.edu|
+|Surya Suresh Sriraman |ssureshs@mail.yu.edu|
 
 
 **Points: 10**  
