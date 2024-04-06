@@ -6,7 +6,7 @@
 | Nivetha Sivakumar | nsivakum@mail.yu.edu |
 | Vidhika Jain | vjain2@mail.yu.edu |
 | Ashish Rogannagari | aroganna@mail.yu.edu |
-|                  |                    |
+| Akshay Nalawade |analawad@mail.yu.edu  |
 
 
 **Points: 10**  
