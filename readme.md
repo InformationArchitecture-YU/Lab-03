@@ -1,9 +1,12 @@
 
-# Lab #3: Develop Code Repository and Push Commits 
+# Group 06 - Lab 3 Exercise
 
 |	Name	|	Email	|
 |---------------|---------------|
-|Sheng-Han Yueh |syueh@mail.yu.edu|
+| Nivetha Sivakumar | nsivakum@mail.yu.edu |
+| Vidhika Jain | vjain2@mail.yu.edu |
+| Ashish Rogannagari | aroganna@mail.yu.edu |
+| Akshay Nalawade |analawad@mail.yu.edu  |
 
 
 **Points: 10**  
