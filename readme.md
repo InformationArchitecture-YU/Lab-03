@@ -4,7 +4,7 @@
 |	Name	|	Email	|
 |---------------|---------------|
 |Surya-Suresh-Sriraman |ssureshs@mail.yu.edu|
-| | |
+|Sukumar- Chigurupati | Schigur1@mail.yu.edu |
 | | |
 | | |
 
