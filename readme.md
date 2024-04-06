@@ -4,7 +4,7 @@
 |	Name	|	Email	|
 |---------------|---------------|
 |Nivetha Sivakumar |nsivakum@mail.yu.edu|
-|                  |                    |
+|Ashish Rogannagari|aroganna@mail.yu.edu|
 |                  |                    |
 |                  |                    |
 
