@@ -3,9 +3,9 @@
 
 |	Name	|	Email	|
 |---------------|---------------|
-|Nivetha Sivakumar |nsivakum@mail.yu.edu|
-|Ashish Rogannagari|aroganna@mail.yu.edu|
-|                  |                    |
+| Nivetha Sivakumar | nsivakum@mail.yu.edu |
+| Vidhika Jain | vjain2@mail.yu.edu |
+| Ashish Rogannagari | aroganna@mail.yu.edu |
 |                  |                    |
 
 
