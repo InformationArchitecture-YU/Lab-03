@@ -1,4 +1,4 @@
-# Group 1 - Lab 3 Exercise
+# Group 4 - Lab 3 Exercise
 
 | Name           | Email                 |
 |----------------|-----------------------|
