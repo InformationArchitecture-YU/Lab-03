@@ -1,12 +1,13 @@
 
-# Lab #3: Develop Code Repository and Push Commits 
+# Group 2 - Lab 3 Exceicise
 
 |	Name	|	Email	|
 |---------------|---------------|
-|Surya-Suresh-Sriraman |ssureshs@mail.yu.edu|
-|Sukumar- Chigurupati | Schigur1@mail.yu.edu |
-|Pavan-Kalyan |ppadala@mail.yu.edu |
-| | |
+ |Surya-Suresh-Sriraman |ssureshs@mail.yu.edu |
+| Sukumar-Chigurupati | Schigur1@mail.yu.edu |
+| Pavan-Kalyan |ppadala@mail.yu.edu |
+| Saivarun-Atmakuri |satmakur@mil.yu.edu |
+
 
 
 **Points: 10**  
