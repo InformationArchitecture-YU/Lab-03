@@ -1,0 +1,2 @@
+coord_lon,coord_lat,weather_id,weather_main,weather_description,weather_icon,base,main_temp,main_feels_like,main_temp_min,main_temp_max,main_pressure,main_humidity,visibility,wind_speed,wind_deg,wind_gust,clouds_all,dt,sys_type,sys_id,sys_country,sys_sunrise,sys_sunset,timezone,id,name,cod
+-0.1257,51.5085,802,Clouds,scattered clouds,03d,stations,286.03,285.31,284.79,286.91,1007,74,10000,8.94,250,13.41,40,1712476077,2,2075535,GB,1712467283,1712515396,3600,2643743,London,200
