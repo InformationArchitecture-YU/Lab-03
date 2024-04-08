@@ -3,8 +3,10 @@
 
 |	Name	|	Email	|
 |---------------|---------------|
-|Sheng-Han Yueh |syueh@mail.yu.edu|
-
+|Guruchandra Kundena |gkundena@mail.yu.edu|
+|Sreevani Siddareddygari |ssiddare@mail.yu.edu|
+|Bhavya Kuruba Nagaraj |bkuruban@mail.yu.edu|
+|Daniel Malinsky |dmalinsk@mail.yu.edu|
 
 **Points: 10**  
 **Assignment Type: Group submissions**
