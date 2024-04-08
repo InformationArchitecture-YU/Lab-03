@@ -1,0 +1,2 @@
+coord,weather,base,main,visibility,wind,clouds,dt,sys,timezone,id,name,cod
+"{'lon': -0.1257, 'lat': 51.5085}","[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",stations,"{'temp': 283.3, 'feels_like': 282.56, 'temp_min': 281.48, 'temp_max': 284.56, 'pressure': 1008, 'humidity': 84}",10000,"{'speed': 2.68, 'deg': 242, 'gust': 4.02}",{'all': 45},1712535193,"{'type': 2, 'id': 2075535, 'country': 'GB', 'sunrise': 1712553549, 'sunset': 1712601896}",3600,2643743,London,200
