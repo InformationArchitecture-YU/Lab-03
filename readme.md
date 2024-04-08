@@ -1,9 +1,15 @@
 
-# Lab #3: Develop Code Repository and Push Commits 
+# Group 2 Section 2 - Lab 3 Exercise
 
 |	Name	|	Email	|
 |---------------|---------------|
-|Sheng-Han Yueh |syueh@mail.yu.edu|
+|Anagh Sharma |asharma9@mail.yu.edu|
+|Niyanta Pandey  |npandey@mail.yu.edu|
+|Rujhan Maniktalia |rmanikta@mail.yu.edu|
+|Aniket Tripathi |atripath@mail.yu.edu|
+|Mohit Kosekar |mkosekar@mail.yu.edu|
+|Priya Tinna |Ptinna@mail.yu.edu|
+
 
 
 **Points: 10**  
