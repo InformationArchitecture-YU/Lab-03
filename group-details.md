@@ -1,4 +1,4 @@
-# Group 1 - Lab 3 Exercise
+# Group 3 - Lab 3 Exercise
 
 Brandon Chiazza brandon.chiazza@yu.edu
 Guruchandra Kundena gkundena@mail.yu.edu
