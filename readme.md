@@ -4,6 +4,7 @@
 |	Name	|	Email	|
 |---------------|---------------|
 |Sheng-Han Yueh |syueh@mail.yu.edu|
+|Aravind Raju |araju1@mail.yu.edu|
 
 
 **Points: 10**  
