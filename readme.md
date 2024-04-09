@@ -259,3 +259,6 @@ This part of the lab is going to require you to take the following steps:
 
 ![](./img/lab03-5.png)
 
+
+hi, these are changes made as part of lab 3. we are group 4
+
